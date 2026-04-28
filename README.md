@@ -107,4 +107,4 @@ public class WeatherApp {
 }
 
 ## OUTPUT
-
+<img width="1617" height="909" alt="Image" src="https://github.com/user-attachments/assets/eaecc8d5-fb3b-47b7-9d70-7c30b9587779" />
